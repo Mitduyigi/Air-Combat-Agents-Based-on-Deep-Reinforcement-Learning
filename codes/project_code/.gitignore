@@ -1,0 +1,7 @@
+wandb/
+.DS_Store
+__pycache__/
+models/
+output/
+render_results/
+*.acmi
